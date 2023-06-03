@@ -1,37 +1,37 @@
 body {
-  margin: auto;
-  padding: 0;
-  background-color: #4f393f;
-}
-.b0 {
-  width: 900px;
+    background-color: #4f393f;
+    margin: auto;
+    padding: 0;
+  }
+  .c0{
+    width: 900px;
   height: 1290px;
   margin: auto;
-}
-.b1 {
-  width: 900px;
+  }
+  .c1{
+    width: 900px;
   height: 60px;
   background-color: #000000;
   display: flex;
   justify-content: space-around;
   align-items: center;
   color: goldenrod;
-}
-.b2 {
-  width: 900px;
+  }
+  .c2{
+    width: 900px;
   height: 100px;
   background-color: #251e1f;
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.b3 {
-  width: 900px;
+  }
+  .c3{
+    width: 900px;
   height: 350px;
   font-family: "Satisfy", cursive;
-}
-.b4 {
-  width: 900px;
+  }
+  .c4{
+    width: 900px;
   height: 200px;
   background-color: #251e1f;
   color: goldenrod;
@@ -40,25 +40,30 @@ body {
   display: flex;
   justify-content: center;
   font-family: "Satisfy", cursive;
-}
-.b5 {
-  width: 900px;
+  }
+  .c5{
+    width: 900px;
   height: 350px;
   background-color: #000000;
   display: flex;
   align-items: center;
   justify-content: space-around;
-}
+  }
 
-a {
-  color: goldenrod;
-}
-a:hover {
-  color: gold;
-}
-a:link {
-  text-decoration: none;
-  list-style: none;
-  color: goldenrod;
-  font-family: "Satisfy", cursive;
-}
+
+
+
+
+  a {
+    color: goldenrod;
+  }
+  a:hover {
+    color: gold;
+  }
+  a:link {
+    text-decoration: none;
+    list-style: none;
+    color: goldenrod;
+    font-family: "Satisfy", cursive;
+  }
+  
