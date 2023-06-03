@@ -1,5 +1,5 @@
 body {
-    background-color: #4f393f;
+  background-color: #4f393f;
   margin: auto;
   padding: 0;
 }
@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  color: white;
+  color: goldenrod;
 }
 .a2 {
   width: 900px;
@@ -76,7 +76,7 @@ body {
   display: flex;
   justify-content: space-evenly;
   justify-items: center;
-  font-size: 20px;
+  font-size: 19px;
   color: goldenrod;
   font-family: "Satisfy", cursive;
 }
